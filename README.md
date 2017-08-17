@@ -1,2 +1,2 @@
-# Pruebas-Automaticas
-Repositorio para el curso de Pruebas Automáticas - MISO4208
+# Bitácora Pruebas Automaticas
+Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
