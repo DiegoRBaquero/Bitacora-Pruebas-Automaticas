@@ -1,6 +1,9 @@
 # Bitácora Pruebas Automaticas
 Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
+### Agosto 20
+Instalación Ghost 1.6.2 localmente.
+
 ### Agosto 19
 Busqué información general y relevante sobre las apps en diferentes fuentes.
 
