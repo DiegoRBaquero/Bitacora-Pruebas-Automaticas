@@ -19,6 +19,44 @@ En la siguiente imagen se evidencia el timeout del Ghost al intentar recuperar l
 En la siguiente imagen se evidencia la operación normal después de haber arreglado el problema:
 ![Funcionando](Funcionando.jpg)
 
+### Exploración interfaz
+
+Inicio:
+
+![Inicio](Inicio.jpeg)
+
+Login
+
+![Login](Login.jpeg)
+
+Home
+
+![Home](Home.jpeg)
+
+Menu
+
+![Menu](Menu.jpeg)
+
+Acerda de...
+
+![Acerca](Acerca.jpeg)
+
+Nuevo post
+
+![Nuevo post](Nuevo post.jpeg)
+
+Menu nuevo post
+
+![Menu nuevo post](Menu nuevo post.jpeg)
+
+Agregar imagen
+
+![Agregar imagen](Agregar imagen.jpeg)
+
+Home con post
+
+![Home post](Home post.jpeg)
+
 ### Fallas/defectos encontrados
 - El blog de Ghost instalado hacía timeout al intentar recuperar la contraseña. Aunque esto no es un defecto de la app, es importante mencionarlo.
 - En un celular pequeño, como lo es el Huawei Y330, se muy fácil hacer *log out* de Quill por error.
