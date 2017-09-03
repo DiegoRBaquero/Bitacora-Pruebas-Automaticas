@@ -15,51 +15,69 @@ Inicialmente se intentó instalar Ghost desde el zip que se referencia en https:
 
 ### Instalación con Ghost CLI
 Se instaló el Ghost CLI utilizando el comando `npm install -g ghost-cli`:
+
 ![Instalación CLI](Instalación CLI.jpg)
 
-Se procedió a instalar ghost en un directorio vacío con el comando `ghost instal local`.
+Se procedió a instalar ghost en un directorio vacío con el comando `ghost instal local`:
+
 ![Instalación local 1](Instalación local 1.jpg)
+
 ![Instalación local 2](Instalación local 2.jpg)
 
 Funcionando:
+
 ![Funcional](Funcional.jpg)
 
 Posterior a la instalación, se configuró el usuario admin:
+
 ![Setup 1](Setup 1.jpg)
+
 ![Setup 2](Setup 2.jpg)
+
 ![Setup 3](Setup 3.jpg)
 
 ### Exploración interfaz
+
 Admin principal/vista de posts:
+
 ![Admin](Admin.jpg)
 
 Nuevo post:
+
 ![New story](New story.jpg)
 
 Team:
+
 ![Team](Team.jpg)
 
 **Configuración:**
 
 General
+
 ![General](Settings general.jpg)
 
-Diseño:
+Diseño
+
 ![General](Settings design.jpg)
 
-Tags:
+Tags
+
 ![General](Settings tags.jpg)
 
-Code injection:
+Code injection
+
 ![General](Settings code injection.jpg)
 
-Apps:
+Apps
+
 ![General](Settings apps.jpg)
 
-Labs:
+Labs
+
 ![General](Settings lab.jpg)
 
 ### Pruebas Cypress
+
 ![Cypress](Cypress.jpg)
 
 ### Fallas/defectos encontrados
