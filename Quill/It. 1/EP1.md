@@ -5,10 +5,10 @@ Para la primera iteración se cuenta con 2 horas para bajar la aplicación y cor
 ### Presupuesto/recursos
 - 1 persona
 - 4 horas
-- Emulador Android sobre Macbook Pro
+- Huawei Y330 con Android 4.2.2 (Soportado por la app)
 
 ### Objetivos
-- Instalar un emulador de android
+- Instalar un blog de Ghost en producción
 - Bajar la aplicación del Play Store
 - Correr la aplicación
 - Explorar casos de uso y documentarlos
