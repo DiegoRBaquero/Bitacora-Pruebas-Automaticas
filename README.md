@@ -2,7 +2,10 @@
 Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ### Septiembre 3
-- Documentación restulados EP1 WordPress
+- Documentación resultados EP1 WordPress
+- Documentación resultados EP1 Ghost
+- Ejecución de pruebas Quill
+- Documentación resultados EP1 Quill
 
 ### Septiembre 2
 - Ejecución estrategia de pruebas WordPress
