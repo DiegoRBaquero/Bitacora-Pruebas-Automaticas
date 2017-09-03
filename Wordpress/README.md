@@ -9,8 +9,8 @@ aplicaciones”[2].
 
 ## Información general: [3]
 - **Nombre**: WordPress
-- **Versión actual**: 8.2
-- **Última acutalización**: Agosto 14
+- **Versión actual**: 8.3
+- **Última acutalización**: Agosto 29
 - **Autor**: Automattic, Inc
 - **Precio**: Gratis
 - **Dispositivos**: iPhone/iPod y iPad
