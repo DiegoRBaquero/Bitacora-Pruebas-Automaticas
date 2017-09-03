@@ -18,3 +18,4 @@ Se instaló el Ghost CLI utilizando el comando `npm install -g ghost-cli` y se p
 ### Fallas/defectos encontrados
 - Los "pasos" para "instalar" Ghost desde la página principal, donde se descarga el ZIP no llevaron a nada. La intuitividad llevó a un error.
 - Cypress *crasheó* al utilizar la variable `Cypress.$` (jQuery) en una de la pruebas.
+- El textarea del contenido de un post a veces no se vuelve el elemento *focused* al hacer click sobre el *"Code Mirror"*
