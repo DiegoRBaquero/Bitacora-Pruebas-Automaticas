@@ -9,7 +9,7 @@ Benchmark.
 
 ### Presupuesto/recursos
 - Una persona
-- 4 horas
+- 10 horas
 - Macbook Pro
 - Cypress
 
