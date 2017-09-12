@@ -1,6 +1,10 @@
 # Bitácora Pruebas Automaticas
 Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
+### Septiembre 12
+- Actualización versión Ghost en información
+- Actualización blog ghost para Quill a 1.8.5
+
 ### Septiembre 3
 - Documentación resultados EP1 WordPress
 - Documentación resultados EP1 Ghost
