@@ -4,8 +4,8 @@ Ghost es una plataforma de publicación de código libre que sirve para construi
 
 ## Información general: [1]
 - **Nombre**: Ghost
-- **Versión actual**: 1.6.2
-- **Última acutalización**: Agosto 17
+- **Versión actual**: 1.8.5
+- **Última acutalización**: Septiembre 12
 - **Autor**: Ghost Foundation
 - **Precio**: Gratis
 - **Tecnologías**: Node.js, Express.js, Ember.js, Handlebars, SQLite/MySQL
