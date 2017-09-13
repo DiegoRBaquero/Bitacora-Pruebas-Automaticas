@@ -3,8 +3,8 @@
 [Introducción, contexto, plan]
 
 ### Presupuesto/recursos
-- 1 persona
-- [x] horas
+- 1 ingeniero
+- [..] horas
 - [Dispositivos/infraestructura]
 - [Herramientas de pruebas]
 
