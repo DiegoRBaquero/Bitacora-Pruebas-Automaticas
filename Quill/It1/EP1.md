@@ -7,7 +7,7 @@ Para la primera iteración se cuenta con 2 horas para bajar la aplicación y cor
 - 4 horas
 - Huawei Y330 con Android 4.2.2 (Soportado por la app)
 
-### Objetivos
+### Objetivos
 - Instalar un blog de Ghost en producción
 - Bajar la aplicación del Play Store
 - Correr la aplicación
