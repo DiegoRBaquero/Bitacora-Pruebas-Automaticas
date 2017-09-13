@@ -30,3 +30,9 @@ En los siguientes *links* se pueden ver las estrategias de prueba:
 - [EP1 WordPress](../WordPress/It1/EP1.md)
 
 ## Resultados
+Los resultados documentan el proceso realizado que se planteó en la estrategia de pruebas para esta primera iteración.
+
+En los siguientes *links* se pueden ver los resultados:
+- [Resultados Ghost](../Ghost/It1/Resultados.md)
+- [Resultados Quill](../Quill/It1/Resultados.md)
+- [Resultados WordPress](../WordPress/It1/Resultados.md)
