@@ -25,8 +25,8 @@ Para la planeación de las estrategias de prueba (EP), se tuvo en cuenta los sig
 - Huawei Y330
 
 En los siguientes *links* se pueden ver las estrategias de prueba:
-- [EP1 Ghost](../Ghost/EP1.md)
-- [EP1 Quill](../Quill/EP1.md)
-- [EP1 WordPress](../WordPress/EP1.md)
+- [EP1 Ghost](../Ghost/It. 1/EP1.md)
+- [EP1 Quill](../Quill/It. 1/EP1.md)
+- [EP1 WordPress](../WordPress/It. 1/EP1.md)
 
 ### Resultados
