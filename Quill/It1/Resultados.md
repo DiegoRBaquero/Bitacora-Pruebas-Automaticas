@@ -9,12 +9,12 @@
 6. Se corrió la aplicación con el blog previamente instalado y se exploró, tomando capturas de pantalla y buscando errores/fallas.
 
 ### Instalación blog
-![Instalación blog](Instalación blog.jpg)
+![Instalación blog](Instalación_blog.jpg)
 
 ### Timeout recuperar contraseña
 
 En la siguiente imagen se evidencia el timeout del Ghost al intentar recuperar la contraseña. Esto es output del comando `ghost log`:
-![Timeouts](Timeouts recuperar.jpg)
+![Timeouts](Timeouts_recuperar.jpg)
 
 En la siguiente imagen se evidencia la operación normal después de haber arreglado el problema:
 ![Funcionando](Funcionando.jpg)
@@ -43,19 +43,19 @@ Acerda de...
 
 Nuevo post
 
-![Nuevo post](Nuevo post.jpeg)
+![Nuevo post](Nuevo_post.jpeg)
 
 Menu nuevo post
 
-![Menu nuevo post](Menu nuevo post.jpeg)
+![Menu nuevo post](Menu_nuevo_post.jpeg)
 
 Agregar imagen
 
-![Agregar imagen](Agregar imagen.jpeg)
+![Agregar imagen](Agregar_imagen.jpeg)
 
 Home con post
 
-![Home post](Home post.jpeg)
+![Home post](Home_post.jpeg)
 
 ### Fallas/defectos encontrados
 - El blog de Ghost instalado hacía timeout al intentar recuperar la contraseña. Aunque esto no es un defecto de la app, es importante mencionarlo.

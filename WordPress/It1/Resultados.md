@@ -6,9 +6,9 @@
 3. Se realizó el diagrama de flujo de interfaz para tener una mejor idea de la aplicación.
 
 ### Diagrama
-![Diagrama UI](Diagrama UI.png)
+![Diagrama UI](Diagrama_UI.png)
 
-El archivo [Diagrama UI.xml](Diagrama UI.xml) se puede abrir en [draw.io](https://www.draw.io)
+El archivo [Diagrama_UI.xml](Diagrama_UI.xml) se puede abrir en [draw.io](https://www.draw.io)
 
 ### Fallas/defectos encontrados
 - Ninguna falla encontrada

@@ -16,13 +16,13 @@ Inicialmente se intentó instalar Ghost desde el zip que se referencia en https:
 ### Instalación con Ghost CLI
 Se instaló el Ghost CLI utilizando el comando `npm install -g ghost-cli`:
 
-![Instalación CLI](Instalación CLI.jpg)
+![Instalación CLI](Instalación_CLI.jpg)
 
 Se procedió a instalar ghost en un directorio vacío con el comando `ghost instal local`:
 
-![Instalación local 1](Instalación local 1.jpg)
+![Instalación local 1](Instalación_local_1.jpg)
 
-![Instalación local 2](Instalación local 2.jpg)
+![Instalación local 2](Instalación_local_2.jpg)
 
 Funcionando:
 
@@ -30,11 +30,11 @@ Funcionando:
 
 Posterior a la instalación, se configuró el usuario admin:
 
-![Setup 1](Setup 1.jpg)
+![Setup 1](Setup1.jpg)
 
-![Setup 2](Setup 2.jpg)
+![Setup 2](Setup2.jpg)
 
-![Setup 3](Setup 3.jpg)
+![Setup 3](Setup3.jpg)
 
 ### Exploración interfaz
 
@@ -44,7 +44,7 @@ Admin principal/vista de posts:
 
 Nuevo post:
 
-![New story](New story.jpg)
+![New story](New_story.jpg)
 
 Team:
 
@@ -54,27 +54,27 @@ Team:
 
 General
 
-![General](Settings general.jpg)
+![General](Settings_general.jpg)
 
 Diseño
 
-![General](Settings design.jpg)
+![Design](Settings_design.jpg)
 
 Tags
 
-![General](Settings tags.jpg)
+![General](Settings_tags.jpg)
 
 Code injection
 
-![General](Settings code injection.jpg)
+![Code Injection](Settings_code_injection.jpg)
 
 Apps
 
-![General](Settings apps.jpg)
+![Apps](Settings_apps.jpg)
 
 Labs
 
-![General](Settings lab.jpg)
+![Labs](Settings_labs.jpg)
 
 ### Pruebas Cypress
 
