@@ -45,5 +45,5 @@ En los siguientes *links* se pueden ver los resultados:
 
 ## Backlog Iteración 2
 - Seleccionar una nueva app para reemplazar Quill.
-- Realizar pruebas de conectividad, desempeño y usabilidad, entre otros.
+- Realizar pruebas NF, de conectividad, desempeño y usabilidad, entre otros.
 - Realizar pruebas de fuzz testing y rippers automáticas.
