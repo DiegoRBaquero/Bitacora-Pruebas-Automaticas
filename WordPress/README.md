@@ -10,16 +10,17 @@ aplicaciones”[2].
 ## Información general: [3]
 - **Nombre**: WordPress
 - **Versión actual**: 8.3
-- **Última acutalización**: Agosto 29
+- **Última actualización**: Agosto 29
 - **Autor**: Automattic, Inc
 - **Precio**: Gratis
-- **Dispositivos**: iPhone/iPod y iPad
+- **Dispositivos**: iPhone/iPod y iPad iOS 10+
 - **Categoría**: Redes sociales
 - **Rating general**: 3.5 estrellas [22873 ratings]
 - **Ícono**: ![WordPress](http://is1.mzstatic.com/image/thumb/Purple128/v4/ce/48/ef/ce48efdf-7723-80f9-c361-cd9556bddf83/source/175x175bb.jpg)
 
 ## Repositorio:
 - URL: [GitHub](https://github.com/wordpress-mobile/WordPress-iOS)
+- Pruebas y scripts de código 🔥 y UI
 - 2k+ stars
 - Commits: 27k+
 - 67 Contribuidores

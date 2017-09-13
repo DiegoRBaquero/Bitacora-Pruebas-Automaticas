@@ -58,5 +58,6 @@ Home con post
 ![Home post](Home_post.jpeg)
 
 ### Fallas/defectos encontrados
+- La configuración inicial de nginx de Ghost genera error de SSL
 - El blog de Ghost instalado hacía timeout al intentar recuperar la contraseña. Aunque esto no es un defecto de la app, es importante mencionarlo.
 - En un celular pequeño, como lo es el Huawei Y330, se muy fácil hacer *log out* de Quill por error.

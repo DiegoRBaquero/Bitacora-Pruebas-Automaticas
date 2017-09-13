@@ -11,7 +11,7 @@ Para la primera iteración se cuenta con 2 horas para bajar la aplicación y cor
 - Bajar la aplicación del App Store
 - Correr la aplicación
 - Explorar casos de uso y documentarlos
-- Buscar fallas o defectos
+- Buscar fallas o defectos e2e y fuzz
 
 ### Nivel de pruebas
 - sistema

@@ -40,7 +40,7 @@ En los siguientes *links* se pueden ver los resultados:
 
 ## Conclusiones/Discusión
 - Ghost es una plataforma que está cambiando rápidamente y que es posible que introduza fallas en cualquier momento. La documentación para instalación desde la página principal no es la mejor. Sin embargo, en la documentación más detallada para desarrolladores, se cubren todos los pasos necesarios para hacer el *setup* tanto en un ambiento local, como en un de producción.
-- Quill es una aplicación sencilla que funciona muy bien, cuenta con un setup automático de la última versión de Ghost en su ejecución de pruebas, y aunque las pruebas no se actualizan hace 2 años, las pruebas iniciales realizadas cubren la funcionalidad muy bien. Por esta razón, se toma la decisión de cambiar la aplicación para la siguiente iteración.
+- Quill es una aplicación sencilla que funciona muy bien. Sus pruebas son del API, cuenta con un setup automático de la última versión de Ghost en su ejecución de pruebas de API, y aunque las pruebas no se actualizan hace 2 años, las pruebas iniciales realizadas cubren la funcionalidad del API bien. Por esta razón, se toma la decisión de cambiar la aplicación para la siguiente iteración.
 - WordPress es una aplicación más compleja, con diversas funcionalidades. Tiene un equipo de trabajo rápido, con ciclos de desarrollo de aproximadamente 2 semanas. Cuenta con una gran cantidad de pruebas en código y conexión con los diferentes servicios de la plataforma, además de pruebas generales de interfaz.
 
 ## Backlog Iteración 2
