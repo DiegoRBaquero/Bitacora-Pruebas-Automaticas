@@ -13,5 +13,12 @@ Quill es una aplicación de código libre para Android que sirve de administrado
 - **Rating general**: 4.7 estrellas [104 ratings]
 - **Ícono**: ![Quill](https://lh3.googleusercontent.com/eXvEYgkXHXRLnOUPSTqTVrcZtdso9WvOr8zhV1g8CU8idhOrc09Hz7xpEJ0BR_tA7dOe=w300-rw)
 
+## Repositorio:
+- URL: [GitHub](https://github.com/vickychijwani/quill)
+- 500+ stars
+- Commits: 500+
+- 14 Contribuidores
+- 40 *Releases*
+
 #### Referencias:
 - [1] Play Store. (2017). Quill - Ghost blog admin with full offline support. [online]. Available: https://play.google.com/store/apps/details?id=me.vickychijwani.spectre&hl=en. [Accessed 19 August 2017]

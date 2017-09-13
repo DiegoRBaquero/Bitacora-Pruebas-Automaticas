@@ -18,6 +18,13 @@ aplicaciones”[2].
 - **Rating general**: 3.5 estrellas [22873 ratings]
 - **Ícono**: ![WordPress](http://is1.mzstatic.com/image/thumb/Purple128/v4/ce/48/ef/ce48efdf-7723-80f9-c361-cd9556bddf83/source/175x175bb.jpg)
 
+## Repositorio:
+- URL: [GitHub](https://github.com/wordpress-mobile/WordPress-iOS)
+- 2k+ stars
+- Commits: 27k+
+- 67 Contribuidores
+- 120 *Releases*
+
 #### Referencias:
 - [1] WordPress. (2017). Chapter 3. [online]. Available at:
 https://wordpress.org/about/history/chapter3.pdf [Accessed 19 August 2017].
