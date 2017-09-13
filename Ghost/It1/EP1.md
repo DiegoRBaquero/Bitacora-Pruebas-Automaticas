@@ -13,7 +13,7 @@ Benchmark.
 - Macbook Pro
 - Cypress
 
-### Objetivos
+### Objetivos
 - Instalar la última versión de Ghost
 - Realizar pruebas y verificaciones de las instrucciones de instalación
 - Realizar pruebas manuales a nivel de sistema
