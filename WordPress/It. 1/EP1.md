@@ -7,7 +7,7 @@ Para la primera iteración se cuenta con 2 horas para bajar la aplicación y cor
 - 4 horas
 - iPhone 6
 
-### Objetivos
+### Objetivos
 - Bajar la aplicación del App Store
 - Correr la aplicación
 - Explorar casos de uso y documentarlos
