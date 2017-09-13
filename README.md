@@ -1,9 +1,12 @@
 # Bitácora Pruebas Automaticas
 Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
-## [Reportes](Reportes)
+### Equipo
+- Diego Rodríguez Baquero - 201223538
 
-## Registro
+### [Reportes](Reportes)
+
+## Registro general
 
 #### Septiembre 13
 - Reporte 1 y presentación para sustentación
@@ -31,10 +34,10 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 - Instalación Ghost 1.6.2 localmente, sin documentación
 
 #### Agosto 19
-- Busqué información general y relevante sobre las apps en diferentes fuentes.
+- Busqueda de información general y relevante sobre las apps en diferentes fuentes.
 
 #### Agosto 16
-- Seleccioné las apps con las que voy a trabajar:
+- Selección de las apps con las que se va a trabajar:
   - Web: Ghost
   - Móvil iOS: Wordpress
   - Móvil Android: Quill (Cliente de Ghost)
