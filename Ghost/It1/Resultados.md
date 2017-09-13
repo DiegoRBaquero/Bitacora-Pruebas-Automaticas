@@ -81,6 +81,10 @@ Labs
 En el siguiente link se encuentra el reporte de Lighthouse realizado sobre el Home del blog:
 [Reporte Lighhouse](Reporte_Lighthouse.pdf)
 
+Como podemos ver del reporte:
+- Ghost no es una aplicación web progressiva. No registra un service worker y no funciona offline
+- Las imagenes que venían con los post por defecto se pueden optimizar bastante (hasta un 64%)
+
 ### Pruebas Cypress
 
 ![Cypress](Cypress.jpg)
