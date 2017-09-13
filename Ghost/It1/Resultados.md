@@ -76,6 +76,11 @@ Labs
 
 ![Labs](Settings_labs.jpg)
 
+### Reporte Lighthouse
+
+En el siguiente link se encuentra el reporte de Lighthouse realizado sobre el Home del blog:
+[Reporte Lighhouse](Reporte_Lighthouse.pdf)
+
 ### Pruebas Cypress
 
 ![Cypress](Cypress.jpg)
