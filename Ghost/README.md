@@ -20,4 +20,4 @@ Ghost es una plataforma de publicación de código libre que sirve para construi
 - 120 *Releases*
 
 #### Referencias:
-- [1] Ghost Foundation. (2017). Ghost - THe professional publishing platform [online]. Available: https://ghost.org/. [Accessed 19 August 2017]
+- [1] Ghost Foundation. (2017). Ghost - The professional publishing platform [online]. Available: https://ghost.org/. [Accessed 19 August 2017]
