@@ -63,8 +63,9 @@ Hay varios errores que se ven desde consola:
 ![Error angular](Imágenes/Error_angular.jpg)
 ![Error conexión](Imágenes/Error_conx.jpg)
 
-No guarda, no se muestra mensaje de error, se ve un 500 en Dev Tools:
+No guarda, no se muestra mensaje de error, se ve un 500 en Dev Tools con las rutas completas de los archivos:
 ![Error 500](Imágenes/Error_500.jpg)
+![Error 500 2](Imágenes/Error_5002.jpg)
 
 Permitió cambiar el usuario a esta cadena:
 `diegorbaquerohola123queesestohahahahahaadsoifoasasdkfhasdfasdgsdfgsdfgasdfghgfdsasdfgfdsasdfghgfdsasdfgfdsasdfghgfdsasdfghgfdsasdfghgfdsasdfghgfdsasdfghjhgfdsasdfghgfdsadiegorbaquerohola123queesestohahahahahaadsoifoasasdkfhasdfasdgsdfgsdfgasdfghgfdsasdfgfdsasdfghgfdsasdfgfdsasdfghgfdsasdfghgfdsasdfghgfdsasdfghgfdsasdfghjhgfdsasdfghgfdsadiegorbaquerohola123queesestohahahahahaadsoifoasasdkfhasdfasdgsdfgsdfgasdfghgfdsasdfgfdsasdfghgfdsasdfgfdsasdfghgfdsasdfghgfdsasdfghgfdsasdfghgfdsasdfghjhgfdsasdfghgfdsa`
@@ -84,4 +85,4 @@ Al hacer restore con un usuario no existe y luego uno sí existente, no se borra
 
 
 ## Conclusiones/Discusión
-- Tell Form tiene bastantes errores que podría mejorar. Está usando una versión vieja de angular (1.4). Permitir campos muy grandes da paso a un ataque donde se llene la base de datos. Si aceptan una contraseña tan corta (que no deberián), deberían aceptarla para hacer login; aunque realmente deberían pedir una longitud mínima.
+- Tell Form tiene bastantes errores que podría mejorar. Está usando una versión vieja de angular (1.4). Permitir campos muy grandes da paso a un ataque donde se llene la base de datos. Si aceptan una contraseña tan corta (que no deberián), deberían aceptarla para hacer login; aunque realmente deberían pedir una longitud mínima. Los errores se muestran completos en la respuesta (Aunque puede ser porque es un ambiente dev)
