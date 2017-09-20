@@ -82,7 +82,18 @@ Al hacer restore con un usuario no existe y luego uno sí existente, no se borra
 ![Restore](Imágenes/Restore.jpg)
 
 ## Pruebas cruzadas Mileage
+Fue imposible correr las pruebas ya que por más de 2 horas no se pudo instalar correr un emulador de android, ni con Android Studio ni con el sdk por CLI. Aunque se tuviera el AVD, los system-images y todo, no funcionaba.
 
+```
+emulator/emulator -avd test -verbose
+emulator:Android emulator version 26.1.4.0 (build_id 4266726) (CL:add3139bafe4f34502c851716afcee834068103a)
+emulator:Found AVD name 'test'
+emulator:Found AVD target architecture: x86
+emulator:argv[0]: 'emulator/emulator'; program directory: '/usr/local/Caskroom/android-sdk/3859397,26.0.1/emulator'
+emulator:Cannot find system image path. Please define ANDROID_SDK_ROOT
+emulator:Auto-config: -engine classic (based on configuration)
+PANIC: Broken AVD system path. Check your ANDROID_SDK_ROOT value [/usr/local/share/android-sdk]!
+```
 
 ## Conclusiones/Discusión
 - Tell Form tiene bastantes errores que podría mejorar. Está usando una versión vieja de angular (1.4). Permitir campos muy grandes da paso a un ataque donde se llene la base de datos. Si aceptan una contraseña tan corta (que no deberián), deberían aceptarla para hacer login; aunque realmente deberían pedir una longitud mínima. Los errores se muestran completos en la respuesta (Aunque puede ser porque es un ambiente dev)
