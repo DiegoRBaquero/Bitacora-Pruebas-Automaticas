@@ -8,6 +8,10 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ## Registro general
 
+### Septiembre 20
+- Reporte pruebas cruzadas 1
+- No seguir haciendo pruebas para Quill, solo se manejarán Ghost y WordPress
+
 #### Septiembre 13
 - Reporte 1 y presentación para sustentación
 - Ajustes, comentarios y arreglos para GitHub
