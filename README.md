@@ -8,9 +8,13 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ## Registro general
 
+### Septiembre 23
+- Perfil WordPress Android
+- Archivar WordPress iOS
+
 ### Septiembre 20
 - Reporte pruebas cruzadas 1
-- No seguir haciendo pruebas para Quill, solo se manejarán Ghost y WordPress
+- No seguir haciendo pruebas para Quill, solo se manejarán Ghost y WordPress Android
 
 #### Septiembre 13
 - Reporte 1 y presentación para sustentación
