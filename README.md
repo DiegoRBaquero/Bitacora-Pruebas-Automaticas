@@ -8,6 +8,10 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ## Registro general
 
+### Octubre 1
+- Estrategia de pruebas 2 Ghost
+- Estrategia de pruebas 2 WordPress Android
+
 ### Septiembre 23
 - Perfil WordPress Android
 - Archivar WordPress iOS
