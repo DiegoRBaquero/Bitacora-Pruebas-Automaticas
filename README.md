@@ -10,6 +10,8 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ### Octubre 8
 - Documentación resultados pruebas monkeys
+- Documentación resultados pruebas Firebase test lab
+- Documentación defecto Wordpress pantalla pequeña
 
 ### Octubre 7
 - Pruebas monkeys android
