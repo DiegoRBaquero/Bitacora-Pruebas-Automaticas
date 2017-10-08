@@ -1,0 +1,26 @@
+// CRASH: com.android.systemui (pid 1729)
+// Short Msg: java.lang.NullPointerException
+// Long Msg: java.lang.NullPointerException: Attempt to invoke virtual method 'com.android.systemui.statusbar.phone.ButtonDispatcher com.android.systemui.statusbar.phone.NavigationBarView.getHomeButton()' on a null object reference
+// Build Label: Android/sdk_google_phone_x86/generic_x86:7.1.1/NYC/4310591:userdebug/test-keys
+// Build Changelist: 4310591
+// Build Time: 1504218219000
+// java.lang.RuntimeException: Error receiving broadcast Intent { act=android.intent.action.USER_SWITCHED flg=0x50000010 (has extras) } in com.google.android.systemui.AssistManagerGoogle$UserSwitchReceiver@84e42d2
+// 	at android.app.LoadedApk$ReceiverDispatcher$Args.run(LoadedApk.java:1132)
+// 	at android.os.Handler.handleCallback(Handler.java:751)
+// 	at android.os.Handler.dispatchMessage(Handler.java:95)
+// 	at android.os.Looper.loop(Looper.java:154)
+// 	at android.app.ActivityThread.main(ActivityThread.java:6119)
+// 	at java.lang.reflect.Method.invoke(Native Method)
+// 	at com.android.internal.os.ZygoteInit$MethodAndArgsCaller.run(ZygoteInit.java:886)
+// 	at com.android.internal.os.ZygoteInit.main(ZygoteInit.java:776)
+// Caused by: java.lang.NullPointerException: Attempt to invoke virtual method 'com.android.systemui.statusbar.phone.ButtonDispatcher com.android.systemui.statusbar.phone.NavigationBarView.getHomeButton()' on a null object reference
+// 	at com.android.systemui.statusbar.phone.PhoneStatusBar.getHomeButton(PhoneStatusBar.java:4473)
+// 	at com.google.android.systemui.OpaEnableDispatcher.dispatchUnchecked(OpaEnableDispatcher.java:38)
+// 	at com.google.android.systemui.OpaEnableDispatcher.dispatchOpaEnabled(OpaEnableDispatcher.java:29)
+// 	at com.google.android.systemui.AssistManagerGoogle.dispatchOpaEnabledState(AssistManagerGoogle.java:67)
+// 	at com.google.android.systemui.AssistManagerGoogle.-wrap0(AssistManagerGoogle.java)
+// 	at com.google.android.systemui.AssistManagerGoogle$UserSwitchReceiver.onReceive(AssistManagerGoogle.java:85)
+// 	at android.app.LoadedApk$ReceiverDispatcher$Args.run(LoadedApk.java:1122)
+// 	... 7 more
+//
+** System appears to have crashed at event 15074 of 100000 using seed 1234

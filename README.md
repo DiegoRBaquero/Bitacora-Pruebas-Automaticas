@@ -8,6 +8,12 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ## Registro general
 
+### Octubre 8
+- Documentación resultados pruebas monkeys
+
+### Octubre 7
+- Pruebas monkeys android
+
 ### Octubre 1
 - Estrategia de pruebas 2 Ghost
 - Estrategia de pruebas 2 WordPress Android
