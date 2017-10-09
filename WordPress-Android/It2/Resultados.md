@@ -12,6 +12,10 @@
 1. Se guardó la plantilla y se corrieron los tests.
 1. Se documentó resultados de Firebase test lab
 1. Se documentó defecto de no poder hacer login con contraseña en dispositivos pequeños
+1. Se firmó el APK de wordpress con el keystore por defecto.
+1. Se creó una prueba de Calabash, se corrió varias veces manualmente para obtener los IDs de los elementos
+   ya que WordPress usa elementos propios y no los views de android nativos.
+1. Se corrió la prueba completa sin fallas de creación de cuenta y sitio
 
 ### Emuladores
 
@@ -42,6 +46,12 @@ y la ejecución con crash del celular.
 ![](img/Firebase-results.jpg)
 
 No se encontraron fallas. La 15 ejecuciones fueron satisfactorias.
+
+### Calabash
+
+##### Resultado
+
+![Calabash](img/Calabash.jpg)
 
 ### Fallas/defectos encontrados
 - Hubo un crash al correr el monkey en el celular, pero no fue de la aplicación, fue de android. [log](logs/cel_error.txt)

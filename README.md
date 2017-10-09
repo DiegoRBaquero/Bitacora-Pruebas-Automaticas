@@ -12,6 +12,7 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 - Documentación resultados pruebas monkeys
 - Documentación resultados pruebas Firebase test lab
 - Documentación defecto Wordpress pantalla pequeña
+- Documentación Calabash Wordpress
 
 ### Octubre 7
 - Pruebas monkeys android
