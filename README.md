@@ -8,6 +8,9 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ## Registro general
 
+### Octubre 11
+- Se había creado un [PR](https://github.com/marmelab/gremlins.js/pull/121) en Gremlins.js para mejorar la documentación
+
 ### Octubre 8
 - Documentación resultados pruebas monkeys
 - Documentación resultados pruebas Firebase test lab
