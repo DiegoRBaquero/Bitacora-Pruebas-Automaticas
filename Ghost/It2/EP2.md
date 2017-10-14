@@ -9,11 +9,12 @@ resultados obtenidos en las pruebas. Si hay tiempo, se realizarán pruebas de ca
 - Una persona
 - 15 horas
 - Macbook Pro
-- Cypress
+- Cypress 0.20
 
 ### Objetivos
 - Actualizar Ghost a la última versión
 - Actualizar (si es necesario) y correr las pruebas automáticas de sistema e2e con Cypress para buscar fallas por cambios
+- Crear pruebas ripper con Cypress
 - Crear y correr pruebas con Gremlins.js para encontrar posibles fallas inesperadas
 - Crear y correr una prueba sencilla de Calabash
 
@@ -23,6 +24,7 @@ resultados obtenidos en las pruebas. Si hay tiempo, se realizarán pruebas de ca
 
 ### Tipos de pruebas
 - end-to-end con Cypress, funcional y no funcional (timeouts, errores)
+- ripper testing, no funcional con Cypress
 - funcional con Calabash
 - no funcional con Gremlins
 - Carga con Apache Benchmark (no funcional, script automatizado para evaluación manual)
