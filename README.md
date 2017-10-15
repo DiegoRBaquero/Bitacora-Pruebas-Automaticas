@@ -8,6 +8,17 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ## Registro general
 
+### Octubre 15
+- Pruebas de carga Apache Benchmark
+- Documentación pruebas de carga
+
+### Octubre 14
+- Instalación Ghost última versión
+- Pruebas cypress e2e actualizadas
+- Pruebas cypress ripper testing sin errores
+- Pruebas gremlins
+- Documentación pruebas Cypress y Gremlins
+
 ### Octubre 11
 - Se había creado un [PR](https://github.com/marmelab/gremlins.js/pull/121) en Gremlins.js para mejorar la documentación
 
