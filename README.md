@@ -8,6 +8,10 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ## Registro general
 
+### Octubre 18
+- Reporte 2
+- Reporte [issue](https://github.com/TryGhost/Ghost-CLI/issues/504) Ghost CLI
+
 ### Octubre 15
 - Pruebas de carga Apache Benchmark
 - Documentación pruebas de carga
