@@ -11,6 +11,9 @@
 1. Se creó un script para correr varios test de ab con diferentes parámetros
 1. Se creó un script que guarda los logs de ab
 1. Se documentó los resultados de ab
+1. Se creo un feature de login de cucumber-webdriverio
+1. Se corrió y verificó su funcionamiento
+1. Se documentó la prueba
 
 ### Cypress
 
@@ -39,6 +42,12 @@ Las pruebas se corrieron 20 veces.
 
 ##### Resultado
 ![](img/Gremlins.jpg)
+
+### Cucumber-WebdriverIO
+
+Se creó una pequeña prueba de hacer login y se definieron sus pasos. El login satisfactorio:
+
+![](img/cucumber.jpg)
 
 ### Fallas/defectos encontrados
 - Ghost (CLI): Hubo una falla al instalar el nuevo blog. El CLI de Ghost pedía yarn, más no es obligatorio tenerlo. Al reinstalar el CLI funcionó como debía

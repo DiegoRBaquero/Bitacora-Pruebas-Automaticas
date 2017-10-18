@@ -16,7 +16,7 @@ resultados obtenidos en las pruebas. Si hay tiempo, se realizarán pruebas de ca
 - Actualizar (si es necesario) y correr las pruebas automáticas de sistema e2e con Cypress para buscar fallas por cambios
 - Crear pruebas ripper con Cypress
 - Crear y correr pruebas con Gremlins.js para encontrar posibles fallas inesperadas
-- Crear y correr una prueba sencilla de Calabash
+- Crear y correr una prueba sencilla de Cucumber-WebdriverIO
 
 ### Nivel de pruebas
 - Sistema
@@ -25,6 +25,6 @@ resultados obtenidos en las pruebas. Si hay tiempo, se realizarán pruebas de ca
 ### Tipos de pruebas
 - end-to-end con Cypress, funcional y no funcional (timeouts, errores)
 - ripper testing, no funcional con Cypress
-- funcional con Calabash
+- funcional con Cucumber-WebdriverIO
 - no funcional con Gremlins
 - Carga con Apache Benchmark (no funcional, script automatizado para evaluación manual)
