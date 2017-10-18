@@ -8,7 +8,8 @@ Octubre 18 de 2017
 En este segundo reporte, se presentan los cambios, la estrategia de pruebas y los resultados obtenidos. Con el fin de no repetir información, se vinculan otros documentos, por lo que este es un documento *interactivo*.
 
 ## Cambios vs reporte 1
-Se descartó Quill y WordPress iOS, se agregó WordPress Android por facilidad de pruebas
+- Se descartó Quill y WordPress iOS, se agregó WordPress Android por facilidad de pruebas
+- No hay pruebas manuales, a todo lo manual se le generó un script
 
 ## Estrategias de prueba
 Para la planeación de las estrategias de prueba (EP), se tuvo en cuenta los siguientes recursos generales compartidos:
