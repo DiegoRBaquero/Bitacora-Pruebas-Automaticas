@@ -12,6 +12,7 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 - Reporte 2
 - Reporte [issue](https://github.com/TryGhost/Ghost-CLI/issues/504) Ghost CLI
 - Agregar prueba Cucumber-WebdriverIO a Ghost
+- Reporte [issue](https://github.com/wordpress-mobile/WordPress-Android/issues/6749) login en WordPress Android
 
 ### Octubre 15
 - Pruebas de carga Apache Benchmark
