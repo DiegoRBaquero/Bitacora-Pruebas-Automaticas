@@ -22,6 +22,7 @@ Para la planeación de las estrategias de prueba (EP), se tuvo en cuenta los sig
 - Calabash
 - Apache Benchmark
 - Android SDK, AVD, etc
+- Firebase test lab
 
 En los siguientes *links* se pueden ver las estrategias de prueba:
 - [EP2 Ghost](../Ghost/It2/EP2.md)
