@@ -10,6 +10,7 @@ resultados obtenidos en las pruebas. Para mejores resultados se van a usar dos e
 - 15 horas
 - Macbook Pro
 - Android SDK, AVD, etc
+- Calabash
 
 ### Objetivos
 - Instalar la aplicación en los emuladores

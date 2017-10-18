@@ -10,6 +10,9 @@ resultados obtenidos en las pruebas. Si hay tiempo, se realizarán pruebas de ca
 - 15 horas
 - Macbook Pro
 - Cypress 0.20
+- Cucumber-WebdriverIO
+- Apache benchmark
+- Gremlins.js
 
 ### Objetivos
 - Actualizar Ghost a la última versión
