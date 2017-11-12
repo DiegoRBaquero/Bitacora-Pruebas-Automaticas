@@ -12247,6 +12247,8 @@ npm ERR! Test failed.  See above for more details.
 ➜  habitica git:(develop) ✗
 </details>
 
+
+
 Hubo un error (repetido) por deprecación:
 
 `Deprecation warning: moment().zone is deprecated, use moment().utcOffset instead`
@@ -12257,7 +12259,7 @@ EL test falló al final pero no mostró detalles
 
 Se instaló la aplicación y se configuró:
 
-![](Imágenes/GNUCash_Home.jpg)
+![](Imágenes/GNUCash_home.jpg)
 
 Se generó el siguiente script:
 
