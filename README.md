@@ -8,6 +8,9 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ## Registro general
 
+### Noviembre 11
+- Report pruebas cruzadas 2
+
 ### Octubre 18
 - Reporte 2
 - Reporte [issue](https://github.com/TryGhost/Ghost-CLI/issues/504) Ghost CLI
