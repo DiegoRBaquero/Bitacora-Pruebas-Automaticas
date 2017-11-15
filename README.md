@@ -8,6 +8,15 @@ Repositorio de bitácora para el curso Pruebas Automáticas - MISO4208
 
 ## Registro general
 
+### Noviembre 15
+- Reporte 3
+- Pruebas de usabilidad/ux
+- Pruebas de apache benchmark
+
+### Noviembre 12
+- Actualización Ghost
+- Pruebas Cypress y Cucumber It 3
+
 ### Noviembre 11
 - Report pruebas cruzadas 2
 

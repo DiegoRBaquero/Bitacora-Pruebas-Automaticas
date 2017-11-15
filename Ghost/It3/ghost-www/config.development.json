@@ -1,0 +1,26 @@
+{
+  "url": "http://localhost:2368/",
+  "server": {
+    "port": 2368,
+    "host": "127.0.0.1"
+  },
+  "database": {
+    "client": "sqlite3",
+    "connection": {
+      "filename": "/Users/diego/Universidad/2017-2/Pruebas Automáticas/Bitacora-Pruebas-Automaticas/Ghost/It3/ghost-www/content/data/ghost-local.db"
+    }
+  },
+  "mail": {
+    "transport": "Direct"
+  },
+  "logging": {
+    "transports": [
+      "file",
+      "stdout"
+    ]
+  },
+  "process": "local",
+  "paths": {
+    "contentPath": "/Users/diego/Universidad/2017-2/Pruebas Automáticas/Bitacora-Pruebas-Automaticas/Ghost/It3/ghost-www/content"
+  }
+}
