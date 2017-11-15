@@ -13,7 +13,7 @@ En este segundo reporte, se presentan los cambios, la estrategia de pruebas y lo
 ## Estrategias de prueba
 Para la planeación de las estrategias de prueba (EP), se tuvo en cuenta los siguientes recursos generales compartidos:
 - 1 Ingeniero
-- 9 horas en total
+- 15 horas en total
 - 3~ semanas
 - Macbook Pro 13"
 - Cypress

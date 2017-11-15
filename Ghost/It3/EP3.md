@@ -1,10 +1,10 @@
 # Estrategia de pruebas 3
 
-Para la tercera iteración se cuenta con 9 horas en total. La idea de esta iteración es volver a correr la pruebas automatizadas más útiles y agregar pruebas de usabilidad con una entrevista. De las nueve horas, seis serán destinadas a la construcción y la ejecución de pruebas, y todos los pasos previos necesarios como la actualización de componentes. Se cuenta además con 3 horas para documentar las pruebas y los resultados obtenidos en las pruebas.
+Para la tercera iteración se cuenta con 15 horas en total. La idea de esta iteración es volver a correr la pruebas automatizadas más útiles y agregar pruebas de usabilidad con una entrevista. De las nueve horas, doce serán destinadas a la construcción, actualización y la ejecución de pruebas, y todos los pasos previos necesarios como la actualización de componentes. Se cuenta además con 3 horas para documentar las pruebas y los resultados obtenidos en las pruebas.
 
 ### Presupuesto/recursos
 - Una persona
-- 9 horas
+- 15 horas
 - Macbook Pro
 - Cypress 0.20
 - Cucumber-WebdriverIO
