@@ -1,4 +1,4 @@
-# Resultados EP1 - WordPress
+# Resultados EP3 - Ghost
 
 ### Bitácora
 1. Se instaló la última versión de Ghost y se configuró
@@ -13,6 +13,7 @@
 1. Se documentó los resultados de ab
 1. Se realizaron tres entrevista como pruebas de usabilidad
 1. Se documentaron las entrevistas
+1. Se intentó instalar stryker para hacer mutation testing, pero fue imposible realizar la configuración.
 
 ### Cypress
 

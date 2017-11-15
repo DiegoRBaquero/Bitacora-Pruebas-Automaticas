@@ -1,4 +1,4 @@
-# Resultados EP1 - WordPress
+# Resultados EP2 - Ghost
 
 ### Bitácora
 1. Se instaló la última versión de Ghost y se configuró
